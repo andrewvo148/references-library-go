@@ -1,8 +1,6 @@
 # best-library-go
 Thư viện được sử dụng trong dự án thực tế.
 
-Minhnv
-
 - Framework: fiber , gin, beego và echo ( hiện tại em thích nhất là fiber vì đang sử dụng lõi fasthttp đem lại hiệu năng cao và nhiều middleware)
 - IoC: github.com/golobby/container/v3
 - uuid: github.com/google/uuid
@@ -34,3 +32,6 @@ Minhnv
 - worker bulk: github.com/facebookgo/muster
 - event bus: github.com/asaskevich/EventBus
 - slices: golang.org/x/exp/slices
+
+### Tác giả
+* [Minhnv](https://github.com/mjnk9xw)
